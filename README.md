@@ -16,7 +16,7 @@ The objective is to understand customer behavior, identify factors associated wi
 
 ### 1. Bank Customer Churn Overview
 
-![Page 1][(./Page1_Overview.png)](https://github.com/Nandani2411/Bank-customer-churn-analysis-powerbi/blob/main/Page1_Overview.png.png?raw=true).
+[Page 1][(./Page1_Overview.png)](https://github.com/Nandani2411/Bank-customer-churn-analysis-powerbi/blob/main/Page1_Overview.png.png?raw=true).
 
 Provides an overall view of customer churn using key customer demographics and churn metrics.
 
